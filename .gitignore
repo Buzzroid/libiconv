@@ -1,0 +1,9 @@
+### JBH                                             
+MSVC15/.vs/
+MSVC15/Win32/
+MSVC15/libiconv_dll/libiconv_dll.vcxproj.user
+MSVC15/libiconv_dll/obj/
+MSVC15/libiconv_static/libiconv_static.vcxproj.user
+MSVC15/libiconv_static/obj/
+MSVC15/x64/
+                                                           
